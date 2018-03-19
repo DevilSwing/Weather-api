@@ -1,0 +1,23 @@
+body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+* {
+	box-sizing: border-box;
+}
+
+.weather-block {
+	width: 400px;
+	min-height: 200px;
+	padding: 20px;
+	background-color: #f4f4f4;
+}
+button {
+	border: none;
+	padding: 10px;
+	color: red;
+	background-color: black;
+
+}
